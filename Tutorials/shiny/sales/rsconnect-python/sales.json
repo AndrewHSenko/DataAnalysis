@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/andrewsenkowski/Documents/Coding Projects/DataAnalysis/Tutorials/shiny/sales",
+        "app_url": "https://andrewhsenko.shinyapps.io/sales-tutorial-11/",
+        "app_id": "15843909",
+        "app_guid": null,
+        "title": "sales-tutorial-1",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
